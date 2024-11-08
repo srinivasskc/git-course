@@ -1,1 +1,6 @@
 This is new user service for demo
+
+User service can add new role
+User can be assigned to customer
+
+User details will also display
