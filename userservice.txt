@@ -1,4 +1,4 @@
-This is new user service for demo:: Changed in main local branch
+This is new user service for demo:: Changed in remote main branch
 
 User service can add new role
 User can be assigned to customer
