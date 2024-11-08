@@ -2,3 +2,5 @@ This is customer service ..
 
 
 Here: In this feature, we are going to develop a rest api
+
+Customer details can be assigned to user.
