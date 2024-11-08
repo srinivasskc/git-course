@@ -5,6 +5,5 @@ User can be assigned to customer
 
 User details will also display
 
-All these will be used in adminservice, which we build.
----
+All these will be used in adminservice, which we build...
 Admin Service will use user Service
