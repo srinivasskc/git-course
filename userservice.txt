@@ -4,3 +4,5 @@ User service can add new role
 User can be assigned to customer
 
 User details will also display
+
+All these will be used in adminservice, which we build.
